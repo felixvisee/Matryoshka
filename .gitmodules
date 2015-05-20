@@ -1,0 +1,21 @@
+[submodule "Carthage/Checkouts/Box"]
+	path = Carthage/Checkouts/Box
+	url = https://github.com/robrix/Box.git
+[submodule "Carthage/Checkouts/Nimble"]
+	path = Carthage/Checkouts/Nimble
+	url = https://github.com/Quick/Nimble.git
+[submodule "Carthage/Checkouts/Result"]
+	path = Carthage/Checkouts/Result
+	url = https://github.com/antitypical/Result.git
+[submodule "Carthage/Checkouts/Runes"]
+	path = Carthage/Checkouts/Runes
+	url = https://github.com/thoughtbot/Runes.git
+[submodule "Carthage/Checkouts/ReactiveCocoa"]
+	path = Carthage/Checkouts/ReactiveCocoa
+	url = https://github.com/ReactiveCocoa/ReactiveCocoa.git
+[submodule "Carthage/Checkouts/Argo"]
+	path = Carthage/Checkouts/Argo
+	url = https://github.com/thoughtbot/Argo.git
+[submodule "Carthage/Checkouts/Dobby"]
+	path = Carthage/Checkouts/Dobby
+	url = https://github.com/rheinfabrik/Dobby.git
