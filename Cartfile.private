@@ -1,4 +1,4 @@
-github "rheinfabrik/Dobby" "feature/nimble-matchers"
+github "rheinfabrik/Dobby" "develop"
 
 # MatryoshkaPlayground
 github "thoughtbot/Argo" ~> 1.0
